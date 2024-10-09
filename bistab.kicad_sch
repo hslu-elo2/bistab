@@ -2064,7 +2064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ELO2:PTS645SM43SMTR92 LFS"
 			(at 193.04 67.31 0)
 			(effects
 				(font
@@ -2206,7 +2206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 93.98 87.63 0)
 			(effects
 				(font
@@ -2275,7 +2275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 238.76 105.41 0)
 			(effects
 				(font
@@ -2374,7 +2374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 139.192 66.04 90)
 			(effects
 				(font
@@ -2444,7 +2444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 164.338 66.04 90)
 			(effects
 				(font
@@ -2514,7 +2514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 194.818 99.06 90)
 			(effects
 				(font
@@ -2583,7 +2583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 108.712 80.01 90)
 			(effects
 				(font
@@ -2654,7 +2654,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 177.8 66.04 0)
 			(effects
 				(font
@@ -2722,7 +2722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ELO2:PTS645SM43SMTR92 LFS"
 			(at 110.49 67.31 0)
 			(effects
 				(font
@@ -2798,7 +2798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 168.91 99.568 90)
 			(effects
 				(font
@@ -2934,7 +2934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 64.77 105.41 0)
 			(effects
 				(font
@@ -3033,7 +3033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 108.712 99.06 90)
 			(effects
 				(font
@@ -3103,7 +3103,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 125.73 66.04 0)
 			(effects
 				(font
@@ -3172,7 +3172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 201.93 88.9 0)
 			(effects
 				(font
@@ -3271,7 +3271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 123.952 80.01 90)
 			(effects
 				(font
@@ -3341,7 +3341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 179.578 80.01 90)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 194.818 80.01 90)
 			(effects
 				(font
@@ -3481,7 +3481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3580,7 +3580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 134.62 99.568 90)
 			(effects
 				(font
